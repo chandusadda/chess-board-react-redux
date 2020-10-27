@@ -1,0 +1,10 @@
+
+{
+    "books": [
+        {"id": 1, "bookName": "Dark Moon", "author":"James Morley", "subject": "Romance", "publicationYear": 2000, "issue": "Mooran"},
+        {"id": 2, "bookName": "Dark Moon2", "author":"James Morley", "subject": "Romance", "publicationYear": 2001, "issue": "Antony"},
+        {"id": 3, "bookName": "Dark Moon3", "author":"James Morley", "subject": "Romance", "publicationYear": 2002, "issue": "Pooran"},
+        {"id": 4, "bookName": "Dark Moon4", "author":"James Morley", "subject": "Romance", "publicationYear": 2003, "issue": "Narien"},
+        {"id": 5, "bookName": "Dark Moon4", "author":"James Morley", "subject": "Romance", "publicationYear": 2004, "issue": "Paul"}
+    ]
+}
