@@ -1,0 +1,2 @@
+export const CREATE_TABLE = 'CREATE_TABLE'
+export const CLICK_TABLE = 'CLICK_TABLE'

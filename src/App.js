@@ -1,10 +1,19 @@
 import './App.css';
-import Books from './Books/Books'
+import { Provider } from 'react-redux'
+import React from 'react'
+
+// import Books from './Books/Books';
+import ChessBoard from './chessBoard/chessBoard'
+import store from './chessBoard/chessBoardStore'
+
 function App() {
   return (
-    <div className="App">
-      <Books />
-    </div>
+    <Provider store={store}>
+      <div className="App">
+        {/* <Books /> */}
+        <ChessBoard />
+      </div>
+    </Provider>
   );
 }
 
